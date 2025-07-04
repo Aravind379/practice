@@ -1,0 +1,2 @@
+this first file in child2
+
